@@ -1,7 +1,7 @@
-# SocialSentimentTracker-
+# Bangladesh News Sentiment Analysis using Python-
 Analyzing people's opinions on a specific social event.
 
-Goal:
+# Goal:
 "To analyze the overall sentiment of news published in the media about the economy of Bangladesh and determine its trends over time."
 
 # Methods & Techniques:
